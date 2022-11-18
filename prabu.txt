@@ -1,0 +1,68 @@
+SRS Document
+
+1)INTRODUCTION:
+                                     
+                             * purpose -> serv@t creating purpose is to serve all people in tamilnadu to get service 
+                                from different modes of transports including water supplies.
+                              
+                              *uses is to people get our service in their hands by booking with low cost
+                               
+                              *our modes of transport are aeroplane,train ,cars auto,bikes.
+
+2)SYSTEM FEATURES AND REQUIREMENTS:
+                                
+      i)FUNCTIONAL REQUIREMENTS:
+                                    
+                                *login page
+                                *transport service
+                                *home based services
+                                *location based services
+                                *customer supports and reviews
+
+      ii)INTERNAL INTERFACE REQUIREMENTS:
+                                 
+                                *login page:
+                                                   
+                                                   #Name
+                                                   #Phone number
+                                                   #e-mail address
+                                                   #cstomer profile
+                                                   #Address
+                                                   #Database to check modes of transport services
+                                                   #Security
+
+                                *transport service:
+
+                                                  #Permissions to check  from Transport Authorities 
+                                                  #current and drop location to pickup
+                                                  #Man Power
+                                                  #Easy to use UI(user interface)
+                                                  #payment and discount offers
+                                                  #AI to track the services                                 
+                                                  #customer's information
+                             
+                               *Home based services:
+                                               
+                                                 #Services like Water tanker,Truck,JCB,Tractor
+                                                 # Collabration with best service 
+                                                 #Delivery services
+                                                 #Man power
+                                                 #Payment module
+                                                 #AI to track the services
+                                                 #Home delivery free
+         
+          iii)SYSTEM AND MAN SUPPORTS:
+                          
+                                               #Man Power
+                                               #AI to track the services
+                                               #Gps and AI to locate the nearby ATM's,Petrol Bunks,Hotels,Restaurants
+                                               #Realtime customer support
+3)CONCLUSION:
+
+                                 *Our conclusion is to delight to serve all peoples with our own software product.
+                     
+                                                                                                         
+                                                                                                       SERV@T
+                                                                                           Delight to serve you
+
+                                 
